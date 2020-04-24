@@ -4,6 +4,6 @@ If you want for other sites too, just replace codeforces.com with * in manifold.
 
 ### Usage
 
-Go the extension management page of your browser (For chrome it is chrome://extensions)
-Turn on the developer mode
-Select 'Load unpacked' and browse and select the 'extension' folder which includes json and js files.
+Go the extension management page of your browser (For chrome it is chrome://extensions)<br/>
+Turn on the developer mode<br/>
+Select 'Load unpacked' and browse and select the 'extension' folder which includes json and js files.<br/>
